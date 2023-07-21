@@ -1,0 +1,58 @@
+* { 
+    margin: -2; 
+    padding: 2; 
+    box-sizing:border-box;
+ }
+ #avan{
+    display: flex;
+}
+ #background {
+    background-image: url(../asstes/background.jpg)
+
+.container {
+display: flex;
+justify-content: space-between;
+align-items: end;
+}
+.first {
+    display: inline;
+}
+
+h2{
+    color: crimson;
+}
+#first title{
+    color: brown;
+    text-align: center;
+}
+h1 {
+	color: red(5, 5, 5);
+	font-family: roboto;
+	text-align: center;
+}
+
+.box p {
+    color: darkslategrey;
+}  
+div{
+    height: 250px;
+    width: 190%;
+}
+
+.box1 {
+    width: 100px;
+    height : 100px;
+    background-color:burlywood;
+}
+
+.box2 {
+    width: 100px;
+    height : 100px;
+    background-color:burlywood;
+}
+
+.box3{
+    width: 100px;
+    height : 100px;
+    background-color:burlywood;
+}
